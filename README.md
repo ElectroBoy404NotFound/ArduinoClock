@@ -1,2 +1,2 @@
 # ArduinoClock
-An clock based on AT MEGA328p
+An clock based on ATMEGA328p
